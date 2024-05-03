@@ -11,17 +11,17 @@
   <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg" alt="License: AGPL v3">
 </a>
-<a href="https://github.com/ARCANGEL0/Edgar-WhatsappBOT">
-    <img src="https://views.whatilearened.today/views/github/ARCANGEL0/Edgar-WhatsappBOT.svg" alt="Views">
+<a href="https://github.com/ARCANGEL0/EdgarBOT-MD">
+    <img src="https://views.whatilearened.today/views/github/ARCANGEL0/EdgarBOT-MD.svg" alt="Views">
 </a>
-<a href="https://github.com/ARCANGEL0/Edgar-WhatsappBOT">
-    <img src="https://img.shields.io/github/stars/ARCANGEL0/Edgar-WhatsappBOT?label=Stars&color=yellow&style=flat-square" alt="Stars">
+<a href="https://github.com/ARCANGEL0/EdgarBOT-MD">
+    <img src="https://img.shields.io/github/stars/ARCANGEL0/EdgarBOT-MD?label=Stars&color=yellow&style=flat-square" alt="Stars">
 </a>
-<a href="https://github.com/ARCANGEL0/Edgar-WhatsappBOT">
-    <img src="https://img.shields.io/github/watchers/ARCANGEL0/Edgar-WhatsappBOT?label=Watchers&color=green&style=flat-square" alt="Watchers">
+<a href="https://github.com/ARCANGEL0/EdgarBOT-MD">
+    <img src="https://img.shields.io/github/watchers/ARCANGEL0/EdgarBOT-MD?label=Watchers&color=green&style=flat-square" alt="Watchers">
 </a>
-<a href="https://github.com/ARCANGEL0/Edgar-WhatsappBOT">
-    <img src="https://img.shields.io/github/forks/ARCANGEL0/Edgar-WhatsappBOT?label=Forks&color=orange&style=flat-square" alt="Forks">
+<a href="https://github.com/ARCANGEL0/EdgarBOT-MD">
+    <img src="https://img.shields.io/github/forks/ARCANGEL0/EdgarBOT-MD?label=Forks&color=orange&style=flat-square" alt="Forks">
 </a>
 </p>
 
@@ -151,8 +151,8 @@ Para começar a usar o **Edgar Allan Bot** no seu ambiente WhatsApp, siga os pas
 1. **Clonar o Repositório**
    Abra o terminal e execute o seguinte comando para clonar o repositório do bot:
    ```bash
-   git clone https://github.com/seu-usuario/Edgar-WhatsappBOT.git
-   cd Edgar-WhatsappBOT 
+   git clone https://github.com/seu-usuario/EdgarBOT-MD.git
+   cd EdgarBOT-MD 
 ```
 2. **Instalar Pacotes NPM Dentro do diretório do projeto, instale as dependências necessárias usando o npm:**
 ```bash
