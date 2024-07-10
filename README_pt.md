@@ -106,24 +106,48 @@ As **Darkcoins** são a moeda virtual do Edgar Allan Bot, usadas para interagir 
 **Edgar** possui diversas ferramentas em categorias distintas, em um chat privado ou em grupo.. digite *.info** para visualizar os tipos de menus e visualizar as ferramentas
 
 ```plain
-╭━━━━━━━━━⬣
-┃ 🕯️💀 𝑪𝒆𝒏𝒕𝒓𝒐 𝒅𝒆 𝒎𝒆𝒏𝒖𝒔
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
-┃ .menu  - TUDO_
-┃ .menu busca  - BUSCAS_
-┃ .menu util  - FERRAMENTAS_
-┃ .menu jogos  - JOGOS_
-┃ .menu dl  - DOWNLOADS_
-┃ .menu conversor  - CONVERSORES_
-┃ .menu midia  - MIDIAS_
-┃ .menu ia  - INTELIGENCIA ARTIFICIAL_
-┃ .menu voto  - VOTOS_
-┃ .menu dev  - DEVS E HACKING_
-┃ .menu gp  - GRUPO_ 『_ADMIN_』
-┃ .menu bot  - BOT_ 『_ADMIN_』
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
-┃ 𝓔𝓭𝓰𝓪𝓻 𝓐𝓵𝓵𝓪𝓷 𝓑𝓸𝓽 𓅊
-╰━━━━━━━━━━━━━━━━━━⬣
+╭─┅──┅❖  ♱︎  ❖─┅─┅
+ |    *CENTRO DE MENUS*
+╰─┅---─┅❖  ⸸  ❖─┅┅
+| *.menu all*
+| † menu completo
+| *.menu ia*
+| † criações, edições e ia
+| *.menu dl*
+| † todo tipo de download
+| *.menu util*
+| † ferramentas e utilidades
+| *.menu dev*
+| † hacking e desenvolvedores
+| *.menu loja*
+| † Loja d'O Gato Preto
+| *.menu jogos*
+| † desafios e jogos
+| *.menu audios*
+| † efeitos de audio e modificadores 
+| *.menu midia*
+| † memes, filtros e muito mais
+| *.menu busca*
+| † consultas e buscas gerais
+| *.menu cassino*
+| † Cassino d'O Corvo
+| *.menu diversoes*
+| † brincadeiras e entretenimentos
+| *.menu ferramentas*
+| † utensilios do bot
+
+╭─┅──┅❖  ︎♱  ❖─┅─┅
+ |       *ADMINISTRAÇÃO*
+╰─-┅─--┅❖  ⸸  ❖─┅┅
+| *.listas*
+| † controle histórico de membros
+| *.menu bot*
+| † comandos exclusivos do Poe
+| *.menu adm*
+| † informações sobre o grupo
+| *.menu funcoes*
+| † funções para automação em grupos 
+ *┅─────┅❖ ⸸ ❖─┅─────┅*
 ```
 
 Para se comunicar com o Edgar em um grupo, basta invoca-lo pelo nome Edgae, Bot, ou Allan.. que ele virá ao seu chamado.
@@ -249,7 +273,7 @@ Como muitos projetos de código aberto, é exigido que os colaboradores forneça
 
 <p align="center">
  <a href="#projeto">
-   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 15%; width:15%">
+   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 5%; width:5%">
  </a> 
 </p>
 
