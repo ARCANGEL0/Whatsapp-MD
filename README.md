@@ -141,7 +141,7 @@ Edgar Allan Bot users are rewarded with **experience points** for each interacti
 | † bot's tools  
 
 ╭─┅──┅❖  ︎♱  ❖─┅─┅  
-|       *ADMINISTRAÇÃO*  
+|       *ADMIN*  
 ╰─-┅─--┅❖  ⸸  ❖─┅┅  
 | *.listas*  
 | † members control  
